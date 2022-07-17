@@ -1,0 +1,71 @@
+---
+layout: post
+title: Thói quen
+description: Thói quen là tấm gương phải chiếu con người bạn, những thói quen nhỏ không đơn thuần là sự lặp đi lặp lại mà chúng còn phải ánh những tâm tư, tính cách lối sống bởi nó được hình thành từ những suy nghĩ, tính cách sống của mỗi chúng ta.
+date: 2022-07-17 17:45:00 +0700
+image: "/images/thoi-quen.jpeg"
+tags: [life-skill, study, sharing]
+---
+
+Thói quen là tấm gương phải chiếu con người bạn, những thói quen nhỏ không đơn thuần là sự lặp đi lặp lại mà chúng còn phải ánh những tâm tư, tính cách lối sống bởi nó được hình thành từ những suy nghĩ, tính cách sống của mỗi chúng ta.
+
+> Success is the sum of small efforts - repeated day in and day out - Robert Collier
+
+Bạn đã sẵn sàng để trở thành một phiên bản tốt hơn của bản thân chưa? Bạn có muốn tạo dựng cho mình những thói quen tốt và duy trì nó trong một khoảng thời gian dài không? Hãy cùng mình tìm hiểu nhé!
+
+## 1. Tầm quan trọng của những thói quen nhỏ
+
+Mình nghĩ là ai cũng đã từng đánh giá thấp những thay đổi nhỏ hàng ngày bởi vì chúng ta luôn luôn tự thuyết phục rằng những thành công lớn thì cần những sự thay đổi to lớn. Từ những cái việc như là giảm cân, khởi nghiệp, viết lách,... chúng ta luôn luôn đặt áp lực cho bản thân là phải có một bước tiến to lớn mà ai cũng phải chú ý, nhưng bạn nên biết rằng chỉ cần 1% cải thiện hôm nay thôi sẽ mang đến 37 lần tốt đẹp hơn trong năm sau.
+
+![Rest]({{site.baseurl}}/images/Power-of-Tiny-Gains.svg)
+
+Thói quen là lãi kép của việc cải thiện bản thân cũng giống như là tiền lãi được vận hành thông qua sức mạnh của lãi kép vậy. Tác động của thói quen sẽ được nhân lên hàng ngày, và mặc dù là tại một thời điểm nào đó nó sẽ không mang lại một kết quả nào mà rõ rệt đâu. Nhưng mà qua ngày này, qua tháng này, qua năm này thì tất cả những việc cải thiện đấy nó được tích luỹ lại và nó trở thành một kết quả rất là đáng gờm. Sau 2 năm, 5 năm thì tác động của những thói quen tốt nó sẽ được hiện ra rõ ràng hơn,..
+
+Và đương nhiên rồi, những thói quen xấu cũng vậy "Hút thuốc một ngày có sao đâu?", "nghỉ một ngày có sao đâu" ,... Đúng tại cái thời điểm đấy nó chưa làm sao đâu, nhưng mà chúng ta cứ cho bản thân cái quyền lặp đi lặp lại những thói quen này, thì bạn biết rồi đấy, những thói quen này sẽ tích tụ lại trở thành những hệ luỵ rất là kinh khủng.
+
+Tiếp theo chúng ta cùng nhau bóc tách 3 tầng lớp tác động đến thay đổi thói quen
+
+## 2. 3 tầng lớp tác động đến việc thay đổi thói quen
+
+![Rest]({{site.baseurl}}/images/Layers-of-behavior-change.png)
+
+<b>Lớp ngoài cùng là Outcomes (Kết quả)</b>: Mọi người thường có xu hướng đặt cái mục tiêu để có thể đạt được kết quả đấy một cách nhanh chóng nhất, mình biết việc thiết đặt mục tiêu là những thứ chúng ta luôn được dạy ở tất cả khía cạnh trong cuộc sống này, từ học tập, công việc, hôn nhân hay cả gia đình. Nhưng kết quả là thứ chúng ta sẽ không thể nào kiểm soát được, thay vì tập trung vào kết quả thì chúng ta nên tập trung vào quá trình hơn.
+
+Cũng tương tự khi mình bắt đầu viết blog này, mình chưa bao giờ đặt mục tiêu là tháng này phải có bao nhiêu người đọc,... mục tiêu đơn giản của mình chỉ là đọc thật nhiều sách và chia sẻ nó cũng như là những kiến thức của bản thân cho tất cả mọi người. Chính vì thế, khi mình viết bài mình rất là enjoy, mình không bị gò bó trong cái áp lực là mình phải đạt được một điều gì đó kinh khủng.
+
+<b>Lớp thứ hai đó chính là quá trình</b>: Mình nghĩ là ai cũng ở trong tình trạng như sau, nỗ lực trong một vài tuần, trong một tháng trời nhưng lại cảm thấy mình không đi đến đâu cả, và cũng không đạt được kết quả gì,..và nó sẽ dẫn đến tình trạng mình nản.
+
+"Học tiếng anh hàng giờ nhưng ta vẫn chưa nói được tiếng anh lưu loát", "tập thể dục rất nhiều nhưng ta chưa giảm cân được",...
+
+Như mình đã nói ở phần trước, nếu các bạn duy trì những thói quen nhỏ hàng ngày thì chắc chắn rằng những quả ngọt bạn nhận sẽ không tồi đâu.
+
+<b>Và điều quan trọng nhất, đó là cốt lõi của việc thay đổi bản thân đó chính là Identity (Niềm tin)</b>: Niềm tin bạn sẽ trở thành ai trong tương lai. Màu sắc của bạn được tô vẽ lên từ những thói quen của bạn, và đó là đại diện cho cái kiểu người mà bạn muốn trở thành trong tương lai. Vấn đề niềm tin này sẽ trở thành nền, là kim chỉ nam định hướng cho mọi quyết định của chúng ta. Và đương nhiên rồi, khi tất cả chúng ta đã có một nền tảng như thế thì tất cả những thói quen của chúng ta sẽ được follow theo một cách rất là dễ dàng
+
+Ví dụ: Bạn đang muốn giảm cân. Thì bạn hãy xác định Identity của bạn là một người sống healthy ở trong tương lai. Sau đó thì hãy nghĩ xem một người healthy thì sẽ làm gì đi? Người healthy học ăn uống như thế nào, buổi trưa ăn salad hay là ăn gà rán?
+
+Dùng những câu hỏi đó như là một kim chỉ nam cho mọi hành động của bạn. Cứ duy trì thói quen của một người bạn muốn trở thành đủ lâu đi, rồi bạn sẽ trở thành họ.
+
+## 3. 4 nguyên tắc tạo lập và duy trì thói quen dễ dàng hơn
+
+<b>Quy tắc đầu tiên là thói quen phải thật rõ ràng </b>
+
+Tôi sẽ làm .... vào .... tại ...
+
+Ngay từ bây giờ, mọi người hãy nghiêm túc mở cuốn sổ của mình ra và ghi rõ ra những điều bạn thật sự muốn làm
+
+Nói về việc rõ ràng, hiển nhiên ngoài việc xác định ngày giờ cụ thể thì có một thói quen bạn có thể áp dụng đó chính là thiết đặt một deadline cho bản thân mình. Hàng ngày trong cuộc sống ta có nhiều thứ để làm, đôi khi bạn hay dễ quên nó, mình thì hay khắc phục bằng cách thiết đặt một deadline cho bản thân trước deadline của công việc đó để tất cả những biến cố có thể phát sinh khi nó xảy ra mình có thời gian để xử lý nó một cách nhanh gọn lẹ.
+
+<b>Quy tắc thứ hai "Thói quen phải thực sự hấp dẫn" </b>
+Nếu mà cái thói quen nào cũng hấp dẫn rồi thì chúng ta đầu cần mắc công phải mà cố gắng ép mình trong một cái guồng mà ta phải thực hiện thói quen đấy nữa. Chính vì nó kém hấp dẫn nên ta phải làm thế nào để cho nó hấp dẫn.
+
+Sau khi làm [thói quen tôi cần làm] thì tôi sẽ [thực hiện điều bạn muốn]
+
+Chẳng hạn như bạn rất thích xem một bộ phim mà bạn còn công việc phải làm thì làm ơn đừng xem phim nhé, hãy hoàn thiện phần công việc trước rồi xem phim sau. Coi việc xem phim là phần thưởng sau khi bạn làm xong công việc đó thì sẽ tuyệt vời hơn rất là nhiều khi là mình chọn xem phim trước rồi mình nom nóp lo sợ mình vẫn còn công việc mình chưa làm.
+
+<b>Thứ ba, thói quen phải thật sự là dễ dàng. </b> Môi trường chính là điều kiện để chúng ta có thể follow cái thói quen cảu mình một cách dễ dàng. Những thứ xung quanh chúng ta đều định hình cái thói quen của chúng ta. Nói cách khác việc sắp xếp đồ đạc hay tạo dựng môi trường sống xung quanh cũng có thể nói lên bạn là người như thế nào.
+
+Ví dụ bạn muốn uống nhiều nước, thì bàn làm việc của mình nên để sẵn một chai nước để nhắc nhở rằng mình phải uống nước đầy đủ trong một ngày.
+
+<b>Quy tắc cuối cùng, thói quen phải thực sự vừa ý</b>. Bạn đừng quên thưởng cho bản thân sau khi hoàn thành xong một thói quen tốt nhé.
+
+Hi vọng qua bài viết này, các bạn sẽ có một cái nhìn khác về các thói quen hàng ngày của mình và có thể giúp các bạn xây dựng và duy trì được những thói quen của mình nhé. Cảm ơn các bạn đã đọc được bài viết của mình.
